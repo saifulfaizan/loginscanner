@@ -1,4 +1,4 @@
-# loginscanner
+# Simple Login Scanner
 
 ## Installation Requirement
 
